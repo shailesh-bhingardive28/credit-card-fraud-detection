@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection 💳
 
-A Machine Learning practice project for detecting fraudulent credit card transactions using **Logistic Regression**.
+A Machine Learning practice project for detecting fraudulent credit card transactions using **Logistic Regression**
 
 ---
 
